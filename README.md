@@ -27,14 +27,3 @@
 ## 📫 How to reach me...  
 - Open an issue or PR on the Ship of Harkinian GitHub repository.  
 - Drop a message here—I’ll respond as long as I’m not in the middle of dinner.  
-
----
-
-## 😄 Pronouns:  
-He/Him/Guardian.  
-
----
-
-## ⚡ Fun fact:  
-- I have a knack for swallowing shiny objects—some call it a bug; I call it a feature.  
-- If you see bubbles, it’s not a glitch. That’s just me letting off steam.
